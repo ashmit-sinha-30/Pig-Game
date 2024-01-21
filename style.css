@@ -152,6 +152,14 @@ main{
     background-color: #53c555;
 }
 
+.player-loser{
+    background-color: #eb5b60;
+}
+
+.player-loser .score{
+    color: #e5df9e;
+}
+
 .player--winner .name{
     font-weight: 700;
     color: #c7365f;
