@@ -37,12 +37,12 @@ main{
     transition: all 0.75s;
 }
 
-.player-1{
+.player-0{
     border-top-left-radius: 9px;
     border-bottom-left-radius: 9px;
 }
 
-.player-2{
+.player-1{
     border-top-right-radius: 9px;
     border-bottom-right-radius: 9px;
 }
@@ -160,7 +160,7 @@ main{
     color: #e5df9e;
 }
 
-.player--winner .name{
+.player-winner .name{
     font-weight: 700;
     color: #c7365f;
 }
